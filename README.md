@@ -1,2 +1,1 @@
-# Computer-repair-
-Repairing of computer systems 
+computer repair 
